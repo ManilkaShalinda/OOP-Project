@@ -11,6 +11,12 @@
 	<form>
 	</form>
 	
+	<table>
+	<tr>
+		<td>Password</td>
+		<td>${emp.password}</td>
+	</tr>
+	</table>
 
 </body>
 </html>
